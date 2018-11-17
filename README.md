@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/romanyx/adapt.svg?branch=master)](https://travis-ci.org/romanyx/adapt)
+
 `adapt` generates adapter type to allow the use of ordinary functions as the interface.
 
 ```bash
