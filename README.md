@@ -17,7 +17,7 @@ func (f readerFunc) Read(p []byte) (int, error) {
 }
 ```
 
-You also can call `mockf` inside a package folder to generate adapter for some of its interfaces:
+You also can call `adapt` inside a package folder to generate adapter for some of its interfaces:
 
 ```bash
 $ cd $GOPATH/src/github.com/romanyx/polluter Polluter
