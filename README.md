@@ -29,6 +29,6 @@ func (f polluterFunc) Pollute(r io.Reader) error {
 }
 ```
 
-It comes in handy for Unit testing with TDD.
+It comes in handy for Unit testing with table driven tests.
 
 You can use `adapt` from Vim with [vim-go-adapt](https://github.com/romanyx/vim-go-adapt)
